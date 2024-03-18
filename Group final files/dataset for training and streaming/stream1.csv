@@ -1,0 +1,51 @@
+BMI,Smoking,AlcoholDrinking,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease
+27.57,No,No,0.0,0.0,No,Female,30-34,Hispanic,Yes,Good,7.0,No,No
+21.93,No,No,0.0,0.0,No,Male,60-64,White,Yes,Excellent,7.0,No,No
+27.44,Yes,No,0.0,0.0,No,Female,65-69,White,Yes,Good,8.0,No,No
+25.85,Yes,Yes,30.0,2.0,Yes,Male,55-59,White,Yes,Very good,6.0,No,No
+26.32,Yes,Yes,30.0,30.0,Yes,Male,50-54,Black,No,Fair,8.0,No,No
+22.86,Yes,No,0.0,0.0,No,Female,75-79,White,Yes,Very good,7.0,No,Yes
+30.11,Yes,No,0.0,0.0,No,Female,25-29,White,Yes,Very good,7.0,Yes,No
+31.31,Yes,No,0.0,0.0,No,Male,60-64,Black,No,Good,9.0,No,No
+24.41,No,No,0.0,6.0,No,Female,30-34,White,Yes,Excellent,6.0,No,No
+24.69,No,No,0.0,0.0,No,Female,45-49,White,Yes,Very good,7.0,No,No
+23.75,Yes,No,0.0,0.0,No,Male,60-64,White,No,Good,6.0,No,No
+29.55,Yes,No,15.0,0.0,No,Male,60-64,White,Yes,Poor,12.0,No,No
+29.8,Yes,No,0.0,0.0,No,Male,55-59,Hispanic,Yes,Very good,9.0,No,No
+25.06,No,No,0.0,0.0,No,Male,45-49,White,Yes,Excellent,7.0,No,No
+28.7,Yes,No,0.0,1.0,No,Male,60-64,White,Yes,Good,7.0,No,No
+28.37,Yes,No,0.0,0.0,No,Male,45-49,White,Yes,Very good,7.0,No,No
+34.44,Yes,No,0.0,15.0,No,Male,55-59,White,Yes,Fair,7.0,No,No
+23.78,No,No,0.0,3.0,No,Female,35-39,White,Yes,Good,8.0,No,No
+29.18,No,No,0.0,5.0,No,Female,55-59,Hispanic,Yes,Excellent,8.0,No,No
+23.75,Yes,No,0.0,0.0,No,Male,25-29,White,Yes,Good,7.0,No,No
+27.71,No,No,0.0,0.0,No,Male,65-69,White,Yes,Excellent,8.0,No,No
+34.01,Yes,No,0.0,3.0,No,Female,60-64,White,No,Excellent,8.0,No,No
+33.89,No,No,2.0,2.0,Yes,Female,60-64,White,Yes,Good,7.0,No,No
+23.09,No,No,0.0,0.0,No,Male,60-64,White,Yes,Very good,7.0,No,No
+35.87,No,Yes,7.0,15.0,No,Male,25-29,Hispanic,Yes,Fair,5.0,No,No
+22.46,Yes,No,0.0,0.0,No,Male,30-34,White,Yes,Very good,6.0,No,No
+38.01,Yes,No,20.0,5.0,No,Male,35-39,White,Yes,Good,4.0,No,No
+38.01,Yes,No,20.0,12.0,Yes,Male,30-34,White,No,Fair,4.0,No,No
+22.38,Yes,No,0.0,0.0,No,Male,35-39,White,Yes,Good,7.0,No,No
+31.32,No,No,1.0,3.0,No,Female,65-69,White,No,Very good,8.0,No,No
+22.24,No,No,0.0,5.0,No,Male,40-44,Hispanic,Yes,Excellent,6.0,No,No
+41.16,No,No,1.0,2.0,No,Female,65-69,White,Yes,Excellent,7.0,No,No
+26.63,Yes,No,0.0,0.0,No,Male,65-69,White,Yes,Fair,6.0,No,No
+26.0,No,No,1.0,7.0,No,Female,30-34,White,Yes,Very good,7.0,No,No
+30.41,No,No,0.0,0.0,No,Male,55-59,White,Yes,Good,6.0,No,No
+23.05,No,No,0.0,0.0,No,Female,60-64,White,Yes,Very good,8.0,No,No
+21.64,Yes,No,0.0,20.0,No,Female,30-34,White,No,Very good,7.0,No,No
+27.46,Yes,No,30.0,30.0,No,Female,35-39,White,No,Poor,4.0,No,No
+32.32,Yes,No,0.0,0.0,No,Male,30-34,White,Yes,Very good,9.0,No,No
+25.73,No,No,0.0,0.0,No,Male,50-54,Black,Yes,Excellent,7.0,No,No
+25.84,Yes,No,0.0,0.0,No,Female,65-69,White,No,Excellent,7.0,No,No
+27.71,Yes,Yes,0.0,10.0,No,Male,40-44,White,Yes,Good,6.0,No,No
+26.52,No,No,0.0,0.0,No,Female,18-24,White,No,Excellent,6.0,Yes,No
+33.28,No,No,0.0,5.0,No,Female,45-49,White,No,Good,8.0,No,No
+23.57,Yes,No,30.0,30.0,Yes,Male,55-59,White,No,Poor,6.0,No,No
+29.26,Yes,No,30.0,0.0,Yes,Female,80 or older,White,No,Poor,10.0,Yes,No
+24.39,Yes,No,30.0,0.0,No,Male,80 or older,White,No,Very good,6.0,No,No
+23.09,Yes,Yes,0.0,0.0,No,Male,75-79,White,Yes,Very good,6.0,No,No
+25.96,Yes,No,0.0,0.0,No,Female,75-79,White,Yes,Good,6.0,No,No
+17.47,No,No,0.0,0.0,No,Female,25-29,White,Yes,Very good,6.0,No,No
