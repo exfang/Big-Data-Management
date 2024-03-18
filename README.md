@@ -29,10 +29,12 @@ With more and more industry storing their data on the cloud, the skill and knowl
 
 1. Set up an account within the Databricks community edition.
 2. Create a compute cluster.
-3. Upload the streaming file onto the workspace.
+3. Upload the streaming file onto the workspace (group final files > Streaming on databricks.dbc)
 4. Connect the compute cluster to the streaming file.
-5. Run the notebook.
-6. Catalog > Create Table > Select > stream_read > Upload the streaming data and view prediction output on the notebook/ in the stream_prediction folder.
+5. Locate the cleaned dataset (group final files > dataset for training and streaming folder > heart_2020_WOstream.csv)
+6. Upload the dataset (catalog > create table > upload dataset)
+7. Run the notebook.
+8. Catalog > Create Table > Select > stream_read > Upload the streaming data and view prediction output on the notebook/ in the stream_prediction folder.
 
 ## View Live Demo of the batch streaming on YouTube.
 
